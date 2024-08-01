@@ -1,0 +1,8 @@
+.testimonial-card .testimonial-card__image img{
+    display: flex;
+    width: 140px;
+    height: 150px;
+    padding-top: 30px;
+    /* margin-bottom: 20px; */
+    margin-right: 15px;
+}
